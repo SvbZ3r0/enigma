@@ -3,3 +3,7 @@ Thumbs.db
 
 # Folder config file
 Desktop.ini
+
+# Sublime Text files
+*.sublime-project
+*.sublime-workspace
